@@ -1,1 +1,4 @@
 .json
+.idea/
+.ipynb_checkpoints/
+key.json
