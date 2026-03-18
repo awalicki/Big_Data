@@ -2,3 +2,5 @@
 .idea/
 .ipynb_checkpoints/
 key.json
+*.csv
+!country_code.csv
