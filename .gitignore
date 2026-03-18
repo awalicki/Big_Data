@@ -4,3 +4,6 @@
 key.json
 *.csv
 !country_code.csv
+!annual-co-emissions-by-region.csv
+!EmergencyEvents.csv
+!World Energy Consumption.csv
